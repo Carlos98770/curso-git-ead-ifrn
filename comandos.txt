@@ -1,0 +1,19 @@
+Nome : Carlos Eduardo Medeiros da Silva
+
+Lista de comandos:
+git clone  https://gitlab.com/mizael.cortez/curso-branchs-ifrn-ead
+git add .
+git commit -m "arquivo de texto criado"
+git branch feature-1
+git switch feature-1
+git add .
+git commit -m "alterando o arquivo texto"
+git switch main
+git add .
+git commit -m "alterando o arquivo texto"
+git merge feature-1
+git commit -m "Resolvendo conflitos no arquivo texto.txt"
+git branch add-comandos
+git switch add-comandos
+git add .
+git commit -m "adicionando o arquivo de comandos"
